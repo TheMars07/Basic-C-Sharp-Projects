@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accounting Systems", "Accounting Systems\Accounting Systems.csproj", "{75292CEB-7842-433D-8A15-33FFF6985DE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75292CEB-7842-433D-8A15-33FFF6985DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75292CEB-7842-433D-8A15-33FFF6985DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75292CEB-7842-433D-8A15-33FFF6985DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75292CEB-7842-433D-8A15-33FFF6985DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FFA4E08-5A3B-4C28-8C44-8E8BAE74C9F4}
+	EndGlobalSection
+EndGlobal
