@@ -1,0 +1,7 @@
+C:\Users\Miguel\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Math\Math\bin\Debug\Math.exe.config
+C:\Users\Miguel\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Math\Math\bin\Debug\Math.exe
+C:\Users\Miguel\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Math\Math\bin\Debug\Math.pdb
+C:\Users\Miguel\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Math\Math\obj\Debug\Math.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Math\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Math\Math\obj\Debug\Math.exe
+C:\Users\Miguel\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Math\Math\obj\Debug\Math.pdb
